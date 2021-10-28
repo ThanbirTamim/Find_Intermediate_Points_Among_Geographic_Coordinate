@@ -3,7 +3,7 @@
 This project help to find intermediate points among geographical coordinate
 
 ## Input
-![CHEESE!](Screenshot73.png)
+![CHEESE!](Screenshot74.png)
 
 ## Output
-![CHEESE!](Screenshot74.png)
+![CHEESE!](Screenshot73.png)
