@@ -22,8 +22,8 @@ namespace MainApp
 
         private void btnGenerate_Click(object sender, EventArgs e)
         {
-            string Input_Shape_File = @"D:\3DTerrainData\Buxa\Vector Data\test.shp"; //Input file which will be loaded
-            string Output_Shape_File = @"D:\3DTerrainData\Buxa\Vector Data\output_test.shp"; //Output File Name Which will be saved
+            string Input_Shape_File = @"D:\input_test.shp"; //Input file which will be loaded
+            string Output_Shape_File = @"D:\output_test.shp"; //Output File Name Which will be saved
             int distance_between_each_points = 4; //meter unit
 
             if (Generate(Input_Shape_File, Output_Shape_File, distance_between_each_points))
